@@ -43,12 +43,12 @@ This project is an application designed for medium-scale hospitals to manage pat
 1. **Projeyi klonlayın / Clone the project:**  
    ```bash
    git clone https://github.com/coderVi/HospitalAutomation.git
-### Türkçe:
+**Türkçe:**
 2. Veritabanını oluşturmak için HastaneDBscript.sql dosyasını çalıştırın.
 
 3. Projeyi Visual Studio'da açın ve gerekli bağlantı ayarlarını yapın.
 4. Uygulamayı çalıştırın ve kullanıcı adı/şifre ile giriş yapın.
-### İngilizce:
+**English:**
 2. Run the HastaneDBscript.sql file to create the database.
 3. Open the project in Visual Studio and configure the necessary connection settings.
 4. Run the application and log in with your username/password.
