@@ -26,13 +26,16 @@ This project is an application designed for medium-scale hospitals to manage pat
 
 ## Özellikler / Features
 
+
 **Türkçe:**  
+
 - Doktor ve hasta bilgileri yönetimi.  
 - Randevu kayıt ve takibi.  
 - Kullanıcı dostu giriş ve yönlendirme ekranları.  
 
 
 **English:**  
+
 - Management of doctor and patient information.  
 - Appointment recording and tracking.  
 - User-friendly login and navigation screens.
@@ -44,13 +47,15 @@ This project is an application designed for medium-scale hospitals to manage pat
 1. **Projeyi klonlayın / Clone the project:**  
    ```bash
    git clone https://github.com/coderVi/HospitalAutomation.git
-**Türkçe:**
-2. Veritabanını oluşturmak için HastaneDBscript.sql dosyasını çalıştırın.
 
+**Türkçe:**
+
+2. Veritabanını oluşturmak için HastaneDBscript.sql dosyasını çalıştırın.
 3. Projeyi Visual Studio'da açın ve gerekli bağlantı ayarlarını yapın.
 4. Uygulamayı çalıştırın ve kullanıcı adı/şifre ile giriş yapın.
 
 **English:**
+
 2. Run the HastaneDBscript.sql file to create the database.
 3. Open the project in Visual Studio and configure the necessary connection settings.
 4. Run the application and log in with your username/password.
