@@ -31,6 +31,7 @@ This project is an application designed for medium-scale hospitals to manage pat
 - Randevu kayıt ve takibi.  
 - Kullanıcı dostu giriş ve yönlendirme ekranları.  
 
+
 **English:**  
 - Management of doctor and patient information.  
 - Appointment recording and tracking.  
@@ -48,6 +49,7 @@ This project is an application designed for medium-scale hospitals to manage pat
 
 3. Projeyi Visual Studio'da açın ve gerekli bağlantı ayarlarını yapın.
 4. Uygulamayı çalıştırın ve kullanıcı adı/şifre ile giriş yapın.
+
 **English:**
 2. Run the HastaneDBscript.sql file to create the database.
 3. Open the project in Visual Studio and configure the necessary connection settings.
